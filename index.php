@@ -7,14 +7,7 @@
 <body>
 	<header>
 		<h1>Team Barcelona and Friends</h1>
-		<nav>
-			<ul>
-				<li><a href="#">Home</a></li>
-				<li><a href="#">Joshua</a></li>
-				<li><a href="#">Maria</a></li>
-				<li><a href="#">Alyssa</a></li>
-			</ul>
-		</nav>
+		<?php include 'inc/universal-nav.php';?>
 	</header>
 	
 	<main>

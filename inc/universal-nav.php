@@ -6,5 +6,3 @@
 				<li><a href="#">Alyssa</a></li>
 			</ul>
 		</nav>
-
-	<nav>
