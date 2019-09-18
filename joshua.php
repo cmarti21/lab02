@@ -12,8 +12,10 @@
 <body class="container">
 
 		<header>
+			<a href= "#">
 			<h1>Joshua Wolkoff</h1>
 			<img src="images/josh.jpeg" alt="Photo of Joshua">
+			<a>
 		</header>
 
 		<?php include 'inc/universal-nav.php';?>
