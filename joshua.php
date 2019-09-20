@@ -21,10 +21,10 @@
 
 	<nav>
 		<ul>
-			<li><a  href="/joshua.php">Home</a></li>
-			<li><a  href="/joshua-jobs.php">Jobs</a> </li>
-			<li><a  href="/joshua-travel.php">Travel</a></li>
-			<li><a  href="/joshua-tidbits.php">Tidbits</a></li>
+			<li><a href="/joshua.php">Home</a></li>
+			<li><a href="/joshua-jobs.php">Jobs</a> </li>
+			<li><a href="/joshua-travel.php">Travel</a></li>
+			<li><a href="/joshua-tidbits.php">Tidbits</a></li>
 		</ul>
 	</nav>
 
@@ -40,9 +40,7 @@
 		<p>I am a senior majoring in computer science and philosophy. Ever since my sophomore year when I took Philosophy of Mind (I highly recommend this class) I have been extremely interested in consciousness and concepts like free will and determinism. I pursued this idea more in computer science classes like Artificial Intelligence and Machines and Consciousness. I have taken many other computer science classes throughout the last three years including: 170 (obviously), 172, 173, 214, 252 and 278.  </p>
 	</main>
 
-	<footer>
-		<p>CSC 174: Advanced Front-end Web Design and Development</p>
-	</footer>
+	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
 	
 </body>
 </html>
