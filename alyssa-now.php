@@ -11,7 +11,7 @@
 <body class="container">
 
 	<header>
-		<a href="#">
+		<a href="/alyssa.php">
 			<h1>Alyssa L Nelson</h1>
 			<img src="images/alyssa.jpg" alt="moi">
 		</a>
@@ -20,19 +20,12 @@
 	<?php include 'inc/universal-nav.php';?>
 
 	<nav>
-
 		<ul>
-
-			<li><a href="#">Home</a></li>
-
-			<li><a href="#">High School</a></li>
-
-			<li><a href="#">Early College</a></li>
-
-			<li><a href="#">Now</a></li>
-
+			<li><a href="/alyssa.php">Home</a></li>
+			<li><a href="/alyssa-high-school.php">High School</a></li>
+			<li><a href="/alyssa-early-college.php">Early College</a></li>
+			<li><a href="/alyssa-now.php">Now</a></li>
 		</ul>
-
 	</nav>
 
 	<aside>
@@ -42,6 +35,7 @@
 			<li>Avid theatre lover</li>
 		</ul>
 	</aside>
+
 	<main>
 		<h1>Now</h1>
 
@@ -49,9 +43,6 @@
 	</main>
 
 	<footer>CSC 174: Advanced Front-end Web Design and Development</footer>
-
-	<script src="http://code.jquery.com/jquery.js"></script>
-<script src="scripts/menu-highlighter.js"></script>	
 
 
 </body>

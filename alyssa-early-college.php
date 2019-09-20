@@ -11,26 +11,21 @@
 <body class="container">
 
 	<header>
-		<a href="#">
+		<a href="/alyssa.php">
 			<h1>Alyssa L Nelson</h1>
 			<img src="images/alyssa.jpg" alt="moi">
 		</a>
 	</header>
 
-<?php include 'inc/universal-nav.php';?>
- <nav>
+	<?php include 'inc/universal-nav.php';?>
+
+	<nav>
 		<ul>
-
-			<li><a href="#">Home</a></li>
-
-			<li><a href="#">High School</a></li>
-
-			<li><a href="#">Early College</a></li>
-
-			<li><a href="#">Now</a></li>
-
+			<li><a href="/alyssa.php">Home</a></li>
+			<li><a href="/alyssa-high-school.php">High School</a></li>
+			<li><a href="/alyssa-early-college.php">Early College</a></li>
+			<li><a href="/alyssa-now.php">Now</a></li>
 		</ul>
-
 	</nav>
 
 	<aside>
