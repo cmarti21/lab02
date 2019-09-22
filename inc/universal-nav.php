@@ -1,8 +1,8 @@
 <nav class="main_nav">
 			<ul>
-				<li><a href="#">Home</a></li>
-				<li><a href="#">Joshua</a></li>
-				<li><a href="#">Maria</a></li>
-				<li><a href="#">Alyssa</a></li>
+				<li><a href="/index.php">Home</a></li>
+				<li><a href="/joshua.php">Joshua</a></li>
+				<li><a href="/maria.php">Maria</a></li>
+				<li><a href="/alyssa.php">Alyssa</a></li>
 			</ul>
 </nav>
