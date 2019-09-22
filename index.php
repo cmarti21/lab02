@@ -11,7 +11,7 @@
 <body class="container">
 
 	<header>
-		<h1>Team Barcelona and Friends</h1>
+		<h2>Team Barcelona and Friends</h2>
 	</header>
 
 	<?php include 'inc/universal-nav.php';?>

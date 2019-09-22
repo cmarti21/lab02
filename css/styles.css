@@ -7,7 +7,7 @@
 	margin: 0;
 	padding: 0;
 	overflow: hidden;
-	background-color: black;
+	
 }
 
 .main_nav li{
@@ -39,7 +39,7 @@ body {
 	font-size: x-large;
 	color: #333333;
 	line-height: 1.5em;
-	background-color: grey;
+	background-image: linear-gradient(to right, white, grey);
 }
 
 h1, h2, h3 {
