@@ -11,7 +11,7 @@
 <body class="container">
 
 	<header>
-		<a href= "/maria.php">
+		<a href= "maria.php">
 			<h1>Maria Mancheno</h1>
 			<img src= "images/maria.jpg" alt="maria">
 		</a>
@@ -21,8 +21,8 @@
 
 	<nav>
 		<ul>
-			<li><a href="/maria.php">Home</a></li>
-			<li><a href="/maria-high-school.php">High School</a></li>
+			<li><a href="maria.php">Home</a></li>
+			<li><a href="maria-high-school.php">High School</a></li>
 			<li><a href="maria-university.php">University</a></li>
 			<li><a href="maria-hobbies.php">Hobbies</a></li>
 		</ul>

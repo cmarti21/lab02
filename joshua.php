@@ -11,7 +11,7 @@
 <body class="container">
 
 	<header>
-		<a href= "/joshua.php">
+		<a href= "joshua.php">
 			<h1>Joshua Wolkoff</h1>
 			<img src="images/josh.jpeg" alt="Photo of Joshua">
 		</a>
@@ -21,10 +21,10 @@
 
 	<nav>
 		<ul>
-			<li><a href="/joshua.php">Home</a></li>
-			<li><a href="/joshua-jobs.php">Jobs</a> </li>
-			<li><a href="/joshua-travel.php">Travel</a></li>
-			<li><a href="/joshua-tidbits.php">Tidbits</a></li>
+			<li><a  href="joshua.php">Home</a></li>
+			<li><a  href="joshua-jobs.php">Jobs</a> </li>
+			<li><a  href="joshua-travel.php">Travel</a></li>
+			<li><a  href="joshua-tidbits.php">Tidbits</a></li>
 		</ul>
 	</nav>
 

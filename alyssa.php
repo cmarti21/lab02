@@ -11,7 +11,7 @@
 <body class="container">
 
 	<header>
-		<a href="/alyssa.php">
+		<a href="alyssa.php">
 			<h1>Alyssa L Nelson</h1>
 			<img src="images/alyssa.jpg" alt="moi">
 		</a>

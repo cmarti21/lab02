@@ -11,7 +11,7 @@
 <body class="container">
 
 	<header>
-		<a href="/alyssa.php">
+		<a href="alyssa.php">
 			<h1>Alyssa L Nelson</h1>
 			<img src="images/alyssa.jpg" alt="moi">
 		</a>
@@ -21,10 +21,10 @@
 
 	<nav>
 		<ul>
-			<li><a href="/alyssa.php">Home</a></li>
-			<li><a href="/alyssa-high-school.php">High School</a></li>
-			<li><a href="/alyssa-early-college.php">Early College</a></li>
-			<li><a href="/alyssa-now.php">Now</a></li>
+			<li><a href="alyssa.php">Home</a></li>
+			<li><a href="alyssa-high-school.php">High School</a></li>
+			<li><a href="alyssa-early-college.php">Early College</a></li>
+			<li><a href="alyssa-now.php">Now</a></li>
 		</ul>
 	</nav>
 
