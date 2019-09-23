@@ -1,40 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<?php include "inc/maria-top.php"; ?>
 
-	<meta charset="utf-8">
-	<title>Assignment 02 | "Smash" Website </title>
-	<link rel="stylesheet" type="text/css" href="css/styles.css">
-
-</head>
-
-<body class="container">
-
-	<header>
-		<a href= "maria.php">
-			<h1>Maria Mancheno</h1>
-			<img src= "images/maria.jpg" alt="maria">
-		</a>
-	</header>
-
-	<?php include 'inc/universal-nav.php';?>
-
-	<nav>
-		<ul>
-			<li><a href="maria.php">Home</a></li>
-			<li><a href="maria-high-school.php">High School</a></li>
-			<li><a href="maria-university.php">University</a></li>
-			<li><a href="maria-hobbies.php">Hobbies</a></li>
-		</ul>
-	</nav>
-
-	<aside>
-		<ul>
-			<li>University of Rochester</li>
-			<li>Senior</li>
-			<li>Digital Media Studies</li>
-		</ul>
-	</aside>
+<?php include "inc/universal-nav.php"; ?>
 
 	<main>
 		<h1> University </h1>
