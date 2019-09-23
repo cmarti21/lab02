@@ -24,4 +24,6 @@
 			<li>Digital Media Studies</li>
 		</ul>
 	</aside>
+	<?php include "inc/nav-maria.php"; ?>
+
 </body>

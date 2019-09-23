@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<meta charset="utf-8">
+	<title> Assignment 02 | "Smash" Website </title>
+	<link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body class="container">
+
+	<header>
+		<a href="alyssa.php">
+			<h1>Alyssa L Nelson</h1>
+			<img src="images/alyssa.jpg" alt="moi">
+		</a>
+	</header>
+
+	<aside>
+		<ul>
+			<li>Double major, History and GSW</li>
+			<li>Class of 2021</li>
+			<li>Avid theatre lover</li>
+		</ul>
+	</aside>
+
+	<?php include "inc/nav-alyssa.php"; ?>
+
+</body>
