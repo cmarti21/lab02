@@ -1,4 +1,7 @@
-<?php include "inc/alyssa-top.php"; ?>
+<?php 
+$currentPage = "Alyssa | Early College";
+include "inc/alyssa-top.php";
+?>
 
 <?php include "inc/universal-nav.php"; ?>
 

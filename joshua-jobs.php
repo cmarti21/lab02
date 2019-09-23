@@ -1,4 +1,8 @@
-<?php include "inc/josh-top.php"; ?>
+<?php 
+$currentPage = "Joshua | Jobs";
+include "inc/josh-top.php";
+?>
+
 
 <?php include "inc/universal-nav.php"; ?>
 

@@ -1,4 +1,7 @@
-<?php include "inc/maria-top.php"; ?>
+<?php 
+$currentPage = "Maria | University";
+include "inc/maria-top.php";
+?>
 
 <?php include "inc/universal-nav.php"; ?>
 
