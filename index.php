@@ -25,4 +25,4 @@
 		<p>For this assignment, we're looking at our peers' Joshua, Maria, and Alyssa! We're excited to learn more about them and hope to share a new perspective on them with you.</p>
 	</main>
 
-<?php include "inc/footer.inc"; ?>
+<?php include "inc/footer.php"; ?>

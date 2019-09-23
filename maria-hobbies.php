@@ -12,4 +12,4 @@ include "inc/maria-top.php";
 
 	</main>
 
-<?php include "inc/footer.inc"; ?>
+<?php include "inc/footer.php"; ?>

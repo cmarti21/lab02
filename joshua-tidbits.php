@@ -13,4 +13,4 @@ include "inc/josh-top.php";
 
 	</main>
 
-<?php include "inc/footer.inc"; ?>
+<?php include "inc/footer.php"; ?>

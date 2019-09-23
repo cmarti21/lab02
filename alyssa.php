@@ -11,4 +11,4 @@ include "inc/alyssa-top.php";
 		<p>It was a very unknown, older show called “Man of La Mancha,” and I had a very small part. It was then that I noticed that I was worlds happier performing than playing in sports. I was always in the middle of the pack in sports, not the worst kid but also very far from the best. If I could have a very small part in the show and be more excited about it, I knew I had to make a change.</p>
 	</main>
 
-<?php include "inc/footer.inc"; ?>
+<?php include "inc/footer.php"; ?>
