@@ -14,7 +14,7 @@
 		
 		<a href= "index.php">
 			<h1>Team Barcelona and Friends</h1>
-			<img src="images/pancho.jpg" alt="Happy Panchie in the park">
+			<img src="images/pancho1.jpg" alt="Happy Panchie in the park">
 		</a>
 	</header>
 
