@@ -3,7 +3,7 @@ $currentPage = "Alyssa | Now";
 include "inc/alyssa-top.php";
 ?>
 
-<?php include "inc/universal-nav.php"; ?>
+<?php include "inc/universal-nav3.php"; ?>
 
 	<main>
 		<h1>Now</h1>

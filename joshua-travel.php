@@ -3,7 +3,7 @@ $currentPage = "Joshua | Travel";
 include "inc/josh-top.php";
 ?>
 
-<?php include "inc/universal-nav.php"; ?>
+<?php include "inc/universal-nav1.php"; ?>
 
 	<main>
 

@@ -3,7 +3,7 @@ $currentPage = "Alyssa | High School";
 include "inc/alyssa-top.php";
 ?>
 
-<?php include "inc/universal-nav.php"; ?>
+<?php include "inc/universal-nav3.php"; ?>
 
 	<main>
 		<h1>High School Theatre</h1>
