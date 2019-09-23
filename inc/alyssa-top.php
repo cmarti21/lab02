@@ -3,7 +3,7 @@
 <head>
 
 	<meta charset="utf-8">
-	<title> Assignment 02 | "Smash" Website </title>
+	<title><?php echo $currentPage; ?></title>
 	<link rel="stylesheet" href="css/styles.css">
 
 </head>
