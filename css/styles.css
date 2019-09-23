@@ -9,6 +9,9 @@
 	overflow: hidden;
 	font-family: 'Ruge Boogie', cursive;
 	font-size:30px;
+	display: flex;
+  	flex-direction: column;
+  	justify-content: flex-end;
 
 
 }
@@ -30,9 +33,12 @@
 }
 
 .main_nav{
+	position: relative;
+	left:400px;
+
 	margin-top: 0;
-	grid-column-start: 2;
-  	grid-column-end: 3;
+	grid-column: 4/5;
+  	grid-row: 1/5;
 	grid-area: header;
 }
 
@@ -96,29 +102,18 @@ a:hover img {
 
 ul {
 	list-style-type: none;
-	/*margin: 0;
-	padding-left: 0;*/
-	/*text-indent: -20px;
-	margin-left: 20px;*/
 }
 
 
 /*	*************************************************
-	BASE - HEADER
+	HEADER
 	************************************************* */
-header a { 
-	/*display: block;*/
-	/*position: relative; */
-}
 header h1 {
-    margin: 0;
-  
-    font-size: 1.50em;
-    
+    font-size: 1.50em;  
 }
 header img {
-   /* position: relative;
-    left: 40px;*/
+   	position: relative;
+   	top: 5px;
 }
 
 /*	*************************************************
