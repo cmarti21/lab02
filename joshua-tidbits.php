@@ -1,40 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<?php include "inc/josh-top.php"; ?>
 
-	<meta charset="utf-8"/>
-	<title>Assignment 02 | "Smash" Website</title>
-	<link rel="stylesheet" href="css/styles.css">
-
-</head>
-
-<body class="container">
-
-	<header>
-		<a href= "joshua.php">
-			<h1>Joshua Wolkoff</h1>
-			<img src="images/josh.jpeg" alt="Photo of Joshua">
-		</a>
-	</header>
-
-	<?php include 'inc/universal-nav.php';?>
-
-	<nav>
-		<ul>
-			<li><a  href="joshua.php">Home</a></li>
-			<li><a  href="joshua-jobs.php">Jobs</a> </li>
-			<li><a  href="joshua-travel.php">Travel</a></li>
-			<li><a  href="joshua-tidbits.php">Tidbits</a></li>
-		</ul>
-	</nav>
-
-	<aside>
-		<ul>
-			<li>CSC and Philosophy major</li>
-			<li>Incredible person</li>
-			<li>Extremely modest</li>
-		</ul>
-	</aside>
+<?php include "inc/universal-nav.php"; ?>
 
 	<main>
 		
